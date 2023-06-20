@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{09AAEA7F-4E14-3BDF-81C6-AF88C7D896E5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
